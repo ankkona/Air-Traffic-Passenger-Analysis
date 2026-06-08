@@ -38,7 +38,7 @@ The dashboard helps users understand passenger movement, airline performance, te
 - **Open More Shops and Cafes in Boarding Area F**: Since Boarding Area F handles the biggest crowd at the airport, putting more restaurants, coffee shops, and retail stores in this specific area will easily make a lot of extra money from passengers waiting for their flights.
 - **Move Staff and Security to Terminal 3**: Terminal 3 is heavily crowded compared to the others. The airport should shift security guards, cleaning crews, and ground staff away from quiet terminals and place them in Terminal 3 to handle the rush and reduce long lines.
 - **Keep United Airlines Happy**: Since United Airlines brings in the vast majority of the airport's passengers, the business depends heavily on them. The airport should offer them special deals or better gate priorities so they don't move their flights to a rival airport.
-- **Focus Marketing on Domestic Travelers**: Since over 76% of all passengers are flying domestic, the airport should spend its marketing budget on local travel perks—like parking discounts or frequent-flyer rewards—to keep this core group growing.
+- **Focus Marketing on Domestic Travelers**: Since over 76% of all passengers are flying domestic, the airport should spend its marketing budget on local travel perks—like parking discounts or frequent-flyer rewards to keep this core group growing.
 - **Give Discounts for Off-Peak Flights**: To stop Boarding Area F from getting overcrowded during peak hours, the airport can offer cheaper landing fees to smaller airlines if they agree to fly during early mornings or late nights when the airport is empty.
 
 ## 🎛 Interactive Features
