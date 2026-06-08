@@ -24,6 +24,9 @@ The dashboard helps users understand passenger movement, airline performance, te
 # Dataset
 * Source : <a href ="https://catalog.data.gov/dataset/air-traffic-passenger-statistics"> Publicly available air traffic passenger data sourced from data.gov</a>
 * Processed Dataset: <a href ="https://github.com/ankkona/Air-Traffic-Passenger-Analysis/blob/main/Dashboard.png"> Air Traffic Passenger Statistics – Cleaned & Modeled Excel Dataset</a>
+
+# Dashboard
+<img src="https://github.com/ankkona/Air-Traffic-Passenger-Analysis/blob/main/Dashboard.png" width="1200"/>
   
 ### 2. Passenger Trend Analysis
 
