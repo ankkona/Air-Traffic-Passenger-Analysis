@@ -105,10 +105,10 @@ This allows detailed analysis for specific regions and time periods.
 
 ## 📈 Business Insights
 
-* Domestic travel drives most passenger traffic.
-* Terminal 3 is the busiest terminal.
-* Passenger traffic was heavily affected by COVID-19.
-* The aviation industry showed strong recovery after the pandemic.
-* A few major airlines contribute a large share of total passengers.
+- The Big COVID-19 Crash and V-Shaped Recovery: The line chart shows that passenger travel grew steadily for 20 years until the pandemic hit in 2020, causing numbers to completely crash off a cliff. Fortunately, the data also shows a massive, high-speed V-shaped recovery immediately afterward, with traffic jumping right back to near-peak historical levels by 2024.
+- Domestic Travel is the Core Business Engine: Looking at the market breakdown, domestic flights make up a massive 76.18% of the airport's total passenger volume. This high percentage proves that local travel was the real backbone that kept the airport stable and running during the post-pandemic recovery era.
+- Massive Market Concentration by a Few Airlines: The Pareto chart proves that a tiny group of major airlines handles almost all the traffic at this airport. United Airlines acts as the absolute leader, holding a towering majority of the market share that completely crushes smaller competitors like Air Canada.
+- Terminal 3 and Boarding Area F are Major Bottlenecks: The operations chart reveals that passenger traffic on the ground is heavily unbalanced. Terminal 3 is the busiest building by far, and specifically, Boarding Area F is a massive logistical hotspot—this single wing of gates alone handles more passenger volume than Terminal 1, Terminal 2, or the entire International Terminal combined.
+- Understanding the 2025 YoY Data Drop: The sharp drop at the very end of the Year-over-Year growth chart looks like a negative trend, but it is actually just a real-world data limitation. Because the dataset cuts off in October 2025, the chart is trying to compare a partial 10-month year against a full 12-month year from 2024, creating an artificial dip that will resolve once the remaining two months of data are added.
 
 
