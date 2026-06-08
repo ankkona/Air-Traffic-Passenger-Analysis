@@ -10,7 +10,7 @@ The dashboard helps users understand passenger movement, airline performance, te
 
 - Microsoft Excel
 - Power Query
-- Dax
+- Simple Dax Measures
 - Pivot Tables
 - Pivot Charts
 - Slicers
