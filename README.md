@@ -14,7 +14,6 @@ The dashboard helps users understand passenger movement, airline performance, te
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Timeline Filter
 - Data Cleaning
 - Data Analysis
 - Interactive Dashboard Design
